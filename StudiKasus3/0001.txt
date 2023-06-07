@@ -1,0 +1,22 @@
+
+Nama			: javed
+Jenis Hewan		: Kucing
+Tahun Kelahiran	: 2004
+==========================================
+
+			Daftar Layanan yang Dipakai
+ 
+Suntik Vaksin							Rp 170,000
+Suntik Anti Jamur Kulit					Rp 40,000
+Suntik Anti Kutu						Rp 50,000
+Pemeriksaan Rawat Inap					Rp 100,000
+Pemeriksaan Rawat Jalan				Rp 100,000
+Suntik Scabies							Rp 60,000
+==========================================
+Total Harga Perawatan					Rp 520,000
+ 
+Mandi								Rp 50,000
+Potong Kuku							Rp 30,000
+Potong Bulu							Rp 70,000
+==========================================
+Total Harga Grooming					Rp 150,000
